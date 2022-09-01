@@ -15,6 +15,26 @@
 
 }
 
+.linguagens{
+    font-size: 35px;
+    cursor: pointer;
+    letter-spacing: 1px;
+    margin-left: 55%;
+    padding: 120px 127px;
+    
+}
+.linguagens-icons{
+    width: 225px;
+    height: 1px;
+    padding: 1px;
+    align-items: center;
+    display: inline-flex;
+    justify-content: center;
+    flex-direction: row;
+    margin : 22 222px;
+    margin-left: 65%;
+}
+
 nav{
     display: flex;
     align-items: center;
@@ -58,9 +78,13 @@ nav ul li a:hover{
     text-decoration: none;
     border: 2px solid transparent;
     font-weight: bold;
-    padding: 10px 25px;
+    padding: 10px 22px;
     border-radius: 30px;
     transition: transform .4s;
+}
+
+.QR-CODE{
+    margin-left: 84%;
 }
 
 .btn:hover{
