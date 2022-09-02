@@ -1,4 +1,7 @@
-# potifolio - AINDA NÃO FINALIZADO
+# portfolio - AINDA NÃO FINALIZADO
+-
+-
+-
 
 ## INÍCIO DO SITE
 
@@ -27,3 +30,9 @@
 ## MEU CONTATO
 
 ![Screenshot_40](https://user-images.githubusercontent.com/85050720/188044083-89f600fa-ff61-472e-b5af-3cc9f3be66e7.png)
+-
+-
+-
+-
+-
+# EM BREVE MAIS ATUALIZAÇÕES!!!
