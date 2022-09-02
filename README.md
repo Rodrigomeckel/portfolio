@@ -11,7 +11,18 @@
 ## SOBRE MIM 
 
 ![Screenshot_38](https://user-images.githubusercontent.com/85050720/188043353-be0468fd-eae0-4fac-a98b-df1c83eec212.png)
-
+-
+-
+-
+-
+-
 ## MEUS SERVIÇOS
 
+![Screenshot_39](https://user-images.githubusercontent.com/85050720/188043936-484fa8a9-b084-4d7c-abf2-67f142556535.png)
+-
+-
+-
+-
+-
+## MEU CONTATO
 
