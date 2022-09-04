@@ -1,4 +1,4 @@
-![APM](https://img.shields.io/apm/l/LINCENSE)
+![APM](https://img.shields.io/apm/l/LI)(https://github.com/Rodrigomeckel/portfolio/tree/main/licença)
 # portfolio - AINDA NÃO FINALIZADO
 -
 -
