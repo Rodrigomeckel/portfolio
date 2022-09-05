@@ -1,5 +1,5 @@
 ## LICENÇA DO PROJETO
-<a href = "https://github.com/Rodrigomeckel/portfolio/blob/main/licença/LICENCES"><img alt="APM" src="https://img.shields.io/apm/l/LI" height="35" width="115"></a>
+<a href = "https://github.com/Rodrigomeckel/portfolio/blob/main/licença/LICENCES"><img alt="APM" src="https://img.shields.io/apm/l/LI" height="35" width="150"></a>
 -
 -
 -
